@@ -21,10 +21,6 @@ I am passionate about electronics, embedded systems, and programming. My goal is
 ✅ Built and tested multiple hardware-based project prototypes  
 ✅ Actively learning and applying skills in real-world projects  
 
-📄 **Proof Documents:**  
-- [Internship Proof PDF 1](Alaparthi%20Hema%20Venkata%20Krishna%20Teja.pdf)  
-- [Internship Proof PDF 2](Alaparthi%20Hema%20Venkata%20Krishna%20Teja%20(1).pdf)  
-
 ---
 
 ## 💡 Projects  
